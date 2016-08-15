@@ -1,1 +1,2 @@
 # androidpn_push
+根据androidpn修改而来，分服务器端和android客户端，完善长连接，修改androidpn中一些bug
